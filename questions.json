@@ -1,0 +1,3187 @@
+[
+ {
+  "src": "BBM",
+  "c": "Planning",
+  "q": "By what date must the Sangguniang Barangay approve the BAIP by resolution?",
+  "o": [
+   "On or before June 7",
+   "On or before September 20",
+   "On or before October 16",
+   "On or before December 31"
+  ],
+  "e": "The BAIP is prepared within May and approved on or before June 7, before the Budget Call.",
+  "s": "BBM Part I, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Planning",
+  "q": "Who prepares the Barangay Annual Investment Program (BAIP)?",
+  "o": [
+   "The Punong Barangay, assisted by the Barangay Secretary and Treasurer",
+   "The City/Municipal Budget Officer",
+   "The Committee on Appropriations alone",
+   "The Barangay Treasurer alone"
+  ],
+  "e": "The PB prepares the BAIP with the Secretary and Treasurer, then submits it to the SB.",
+  "s": "BBM Part I, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Planning",
+  "q": "In the BAIP reference code, which sector code is used for Social Services?",
+  "o": [
+   "3000",
+   "1000",
+   "8000",
+   "9000"
+  ],
+  "e": "1000 General Public Services, 3000 Social Services, 8000 Economic Services, 9000 Other Services.",
+  "s": "BBM Part I, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Planning",
+  "q": "The BAIP is what portion of the Barangay Development Investment Program (BDIP)?",
+  "o": [
+   "A one-year slice",
+   "A three-year copy",
+   "A quarterly slice",
+   "A five-year slice"
+  ],
+  "e": "The BAIP is the one-year slice of the three-year BDIP and links the plan to the budget.",
+  "s": "BBM Part I, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Planning",
+  "q": "The Barangay Development Plan (BDP) covers how many years?",
+  "o": [
+   "Three years",
+   "One year",
+   "Five years",
+   "Six years"
+  ],
+  "e": "The BDP is a three-year multi-sectoral plan initiated by the BDC and approved by the SB.",
+  "s": "BBM Part I, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Participation",
+  "q": "What share of the Barangay Development Council must be CSO/NGO representatives?",
+  "o": [
+   "Not less than one-fourth",
+   "Not less than one-half",
+   "Not more than one-tenth",
+   "Exactly one-third"
+  ],
+  "e": "CSO/NGO representatives constitute not less than one-fourth of the fully organized council.",
+  "s": "BBM Part I, Ch. 1-2"
+ },
+ {
+  "src": "BBM",
+  "c": "Calendar",
+  "q": "The Budget Call of the Punong Barangay is based on which document?",
+  "o": [
+   "The approved BAIP",
+   "The previous year's Appropriation Ordinance",
+   "The Plantilla of Personnel",
+   "The SAOB"
+  ],
+  "e": "The Budget Call is issued based on the approved BAIP, the LGC and the Manual.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Calendar",
+  "q": "By when do the City/Municipal Treasurer and Accountant issue the joint certified statement of income for the barangay?",
+  "o": [
+   "September 5",
+   "September 15",
+   "September 20",
+   "October 16"
+  ],
+  "e": "The joint certified statement is issued on or before September 5.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Budget Preparation",
+  "q": "Which is one of the three parts of the Barangay Expenditure Program (BEP)?",
+  "o": [
+   "General Provisions",
+   "Budget Message",
+   "Plantilla of Personnel",
+   "BAIP"
+  ],
+  "e": "The BEP has a Receipts Program, an Expenditure Program and General Provisions.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Budget Preparation",
+  "q": "Which form is the Statement of Indebtedness submitted with the BEP?",
+  "o": [
+   "BBP Form No. 4",
+   "BBP Form No. 3",
+   "BBP Form No. 5",
+   "BBP Form No. 2"
+  ],
+  "e": "BBP Form No. 4 is the Statement of Indebtedness; Form No. 3 is the Plantilla of Personnel.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Budget Preparation",
+  "q": "The Plantilla of Personnel is which budget preparation form?",
+  "o": [
+   "BBP Form No. 3",
+   "BBP Form No. 1",
+   "BBP Form No. 6",
+   "BBP Form No. 2-A"
+  ],
+  "e": "BBP Form No. 3 is the Plantilla of Personnel.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Budget Preparation",
+  "q": "The aggregate amount proposed in the BEP must not exceed:",
+  "o": [
+   "The estimates of income",
+   "The previous year's budget",
+   "The NTA only",
+   "The regular income only"
+  ],
+  "e": "Section 324(a), LGC: the aggregate amount appropriated may not exceed the estimates of income.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Mandatory set-asides",
+  "q": "What is the minimum share of the annual NTA appropriated for development projects?",
+  "o": [
+   "20%",
+   "10%",
+   "5%",
+   "30%"
+  ],
+  "e": "At least 20% of the NTA must be appropriated for development projects. More than 20% is allowed.",
+  "s": "BBM Part II, Ch. 1; FAQ 3"
+ },
+ {
+  "src": "BBM",
+  "c": "Mandatory set-asides",
+  "q": "Which may be charged against the 20% Development Fund?",
+  "o": [
+   "Construction of a barangay health station",
+   "Overtime pay",
+   "Purchase of office supplies",
+   "Registration fees for a seminar"
+  ],
+  "e": "PS, administrative expenses, travel, training fees and admin furniture or vehicles are on the negative list.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Mandatory set-asides",
+  "q": "How much of the general fund is set aside for the Sangguniang Kabataan?",
+  "o": [
+   "10%",
+   "5%",
+   "20%",
+   "1%"
+  ],
+  "e": "The SK share is 10% of the general fund, appropriated in lump sum.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Mandatory set-asides",
+  "q": "What percentage of the BDRRMF is the Quick Response Fund?",
+  "o": [
+   "30%",
+   "50%",
+   "70%",
+   "10%"
+  ],
+  "e": "Of the BDRRMF, 30% is QRF and 70% is for prevention, preparedness, response, rehabilitation and recovery.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Mandatory set-asides",
+  "q": "The BDRRMF is at least what share of estimated revenue from regular sources?",
+  "o": [
+   "5%",
+   "10%",
+   "20%",
+   "2%"
+  ],
+  "e": "Not less than 5% of estimated regular revenue is set aside as BDRRMF (RA 10121).",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Limits",
+  "q": "Appropriation for debt servicing may not exceed what share of regular income?",
+  "o": [
+   "20%",
+   "10%",
+   "30%",
+   "55%"
+  ],
+  "e": "The debt service cap is 20% of the regular income of the barangay.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Limits",
+  "q": "The PS limitation is what share of income realized from local sources in the next preceding fiscal year?",
+  "o": [
+   "55%",
+   "45%",
+   "30%",
+   "70%"
+  ],
+  "e": "Total PS appropriations may not exceed 55% of income actually realized from local sources.",
+  "s": "BBM Part II, Ch. 1; FAQ 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Limits",
+  "q": "Discretionary funds of the Punong Barangay may not exceed what share of actual basic RPT receipts of the next preceding calendar year?",
+  "o": [
+   "2%",
+   "5%",
+   "10%",
+   "20%"
+  ],
+  "e": "Annual discretionary appropriations may not exceed 2% of actual receipts from basic real property tax.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Limits",
+  "q": "What share of the total barangay budget goes to GAD programs at minimum?",
+  "o": [
+   "5%",
+   "1%",
+   "10%",
+   "20%"
+  ],
+  "e": "At least 5% of the total budget corresponds to GAD PPAs, attributed to existing programs.",
+  "s": "BBM Part II, Ch. 1; FAQ 39"
+ },
+ {
+  "src": "BBM",
+  "c": "Limits",
+  "q": "The programs of the Local Council for the Protection of Children get what share of the barangay's NTA?",
+  "o": [
+   "1%",
+   "5%",
+   "10%",
+   "20%"
+  ],
+  "e": "One percent of the NTA is allocated for LCPC programs.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Economic Enterprise",
+  "q": "Salaries of Barangay Economic Enterprise employees are charged to:",
+  "o": [
+   "The BEE's own budget",
+   "The general fund PS",
+   "The SK fund",
+   "The 20% Development Fund"
+  ],
+  "e": "BEE PS is charged to the enterprise budget and excluded from the barangay PS limit.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Economic Enterprise",
+  "q": "Excess income of a BEE, after costs and the return of advances or loans, goes to:",
+  "o": [
+   "The General Fund of the barangay",
+   "The SK Fund",
+   "The BDRRMF",
+   "The national government"
+  ],
+  "e": "Costs are deducted first, then advances returned, and any excess forms part of the General Fund.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Limits",
+  "q": "The creation of new positions and salary increases may in no case be:",
+  "o": [
+   "Retroactive",
+   "Approved by the PB",
+   "Funded from savings",
+   "Posted"
+  ],
+  "e": "Section 325(g), LGC: creation of positions and salary increases are not made retroactive.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Calendar",
+  "q": "The BEP is submitted to the Sangguniang Barangay not later than:",
+  "o": [
+   "October 16",
+   "September 20",
+   "November 15",
+   "December 31"
+  ],
+  "e": "Section 318, LGC: the executive budget is submitted not later than October 16.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Supplemental",
+  "q": "BBP Form No. 6 is which document?",
+  "o": [
+   "Statement of Supplemental Appropriation",
+   "Statement of Funding Sources",
+   "Plantilla of Personnel",
+   "Statement of Indebtedness"
+  ],
+  "e": "Form No. 5 is the Statement of Funding Sources; Form No. 6 the Statement of Supplemental Appropriation.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Supplemental",
+  "q": "In times of public calamity, a supplemental budget may be funded by:",
+  "o": [
+   "Budgetary realignment",
+   "Next year's NTA",
+   "The SK Fund",
+   "Unrealized income"
+  ],
+  "e": "Realignment of appropriations is allowed in times of public calamity.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Supplemental",
+  "q": "Savings include:",
+  "o": [
+   "Unobligated compensation for vacant positions",
+   "Unspent CO balances",
+   "Any unrealized income",
+   "Reverted prior-year funds"
+  ],
+  "e": "Savings include unobligated compensation for vacant positions and leaves without pay.",
+  "s": "BBM Part II, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Authorization",
+  "q": "An Appropriation Ordinance is enacted upon the affirmative vote of:",
+  "o": [
+   "A majority of all SB members",
+   "Two-thirds of the SB",
+   "The PB alone",
+   "A majority of those present"
+  ],
+  "e": "Any ordinance authorizing payment of money needs a majority of all members duly elected and qualified.",
+  "s": "BBM Part II, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Authorization",
+  "q": "The Sangguniang Barangay may not increase amounts or add items in the BEP, except to provide for:",
+  "o": [
+   "Statutory and contractual obligations",
+   "Honoraria of officials",
+   "Discretionary funds",
+   "Capital outlay"
+  ],
+  "e": "Additions are limited to statutory and contractual obligations, within the total of the executive budget.",
+  "s": "BBM Part II, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Authorization",
+  "q": "The Barangay Secretary must post the AO within how many days after approval?",
+  "o": [
+   "Five days",
+   "Ten days",
+   "Thirty days",
+   "Sixty days"
+  ],
+  "e": "Posting is required not later than five days after approval (Sec. 59(b), LGC).",
+  "s": "BBM Part II, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Authorization",
+  "q": "The ordinance enacting the annual budget takes effect:",
+  "o": [
+   "At the beginning of the ensuing calendar year",
+   "On the day it is posted",
+   "Ten days after approval",
+   "On the date the BAC meets"
+  ],
+  "e": "The annual budget takes effect at the start of the ensuing calendar year; a supplemental budget upon approval.",
+  "s": "BBM Part II, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Authorization",
+  "q": "Copies of the AO are furnished to the SP/SB within:",
+  "o": [
+   "10 days from approval",
+   "5 days from approval",
+   "30 days from approval",
+   "60 days from approval"
+  ],
+  "e": "Section 333(a), LGC: within 10 days from approval, through the city or municipal budget officer.",
+  "s": "BBM Part II, Ch. 2-3"
+ },
+ {
+  "src": "BBM",
+  "c": "Review",
+  "q": "The SP/SB reviews the barangay AO within:",
+  "o": [
+   "60 days from receipt",
+   "30 days from receipt",
+   "90 days from receipt",
+   "15 days from receipt"
+  ],
+  "e": "The SP/SB has 60 days; if no action is taken the AO continues in full force and effect.",
+  "s": "BBM Part II, Ch. 3"
+ },
+ {
+  "src": "BBM",
+  "c": "Review",
+  "q": "Which causes the AO to be declared inoperative in its entirety?",
+  "o": [
+   "Aggregate appropriations exceed estimates of income",
+   "GAD budget below 5%",
+   "PS slightly above the limit",
+   "A donation item"
+  ],
+  "e": "Appropriations beyond estimated income make the whole AO inoperative; GAD deficiency is a condition.",
+  "s": "BBM Part II, Ch. 3"
+ },
+ {
+  "src": "BBM",
+  "c": "Review",
+  "q": "If PS appropriations exceed the 55% limit, the AO is:",
+  "o": [
+   "Declared inoperative in part",
+   "Declared inoperative in its entirety",
+   "Operative without conditions",
+   "Returned to the PB for reenactment"
+  ],
+  "e": "The excess over the PS limitation is disallowed, making the AO inoperative in part.",
+  "s": "BBM Part II, Ch. 3"
+ },
+ {
+  "src": "BBM",
+  "c": "Review",
+  "q": "A deficient GAD budget in the AO is typically cited as:",
+  "o": [
+   "A condition",
+   "Grounds for entire inoperativeness",
+   "A disallowance",
+   "A reenacted item"
+  ],
+  "e": "Deficiency in budgetary requirements by attribution is cited as a condition.",
+  "s": "BBM Part II, Ch. 3"
+ },
+ {
+  "src": "BBM",
+  "c": "Reenacted Budget",
+  "q": "Under a reenacted budget, the barangay may NOT:",
+  "o": [
+   "Implement new programs and projects",
+   "Pay salaries of existing positions",
+   "Pay statutory obligations",
+   "Pay essential operating expenses"
+  ],
+  "e": "Only existing salaries, statutory and contractual obligations and essential operating expenses are reenacted.",
+  "s": "BBM Part II, Ch. 4"
+ },
+ {
+  "src": "BBM",
+  "c": "Execution",
+  "q": "The ARO for Capital Outlays is which form?",
+  "o": [
+   "BBE Form No. 3",
+   "BBE Form No. 1",
+   "BBE Form No. 2",
+   "BBE Form No. 4"
+  ],
+  "e": "ARO forms: No. 1 PS, No. 2 MOOE, No. 3 CO, No. 4 Financial Expenses.",
+  "s": "BBM Part II, Ch. 4"
+ },
+ {
+  "src": "BBM",
+  "c": "Execution",
+  "q": "An allotment is:",
+  "o": [
+   "An authorization issued by the PB allowing a unit to incur obligations within its appropriation",
+   "The total approved budget",
+   "A payment by check",
+   "A year-end balance"
+  ],
+  "e": "An allotment allows obligations up to a specific amount within the appropriation.",
+  "s": "BBM Part II, Ch. 4"
+ },
+ {
+  "src": "BBM",
+  "c": "Execution",
+  "q": "Augmentation from savings is recorded on which form?",
+  "o": [
+   "BBE Form No. 7",
+   "BBE Form No. 1",
+   "BBE Form No. 5",
+   "BBP Form No. 6"
+  ],
+  "e": "BBE Form No. 7 is the Augmentation Form.",
+  "s": "BBM Part II, Ch. 4"
+ },
+ {
+  "src": "BBM",
+  "c": "Execution",
+  "q": "BBE Form No. 5 must be prepared within how many days after the AO is approved?",
+  "o": [
+   "Seven days",
+   "Thirty days",
+   "Sixty days",
+   "One year"
+  ],
+  "e": "Detailed Financial and Physical Performance Targets are prepared within seven days after approval.",
+  "s": "BBM Part II, Ch. 4"
+ },
+ {
+  "src": "BBM",
+  "c": "Execution",
+  "q": "Total disbursements from a fund may not exceed actual collections plus what share of uncollected estimated revenue?",
+  "o": [
+   "50%",
+   "25%",
+   "75%",
+   "100%"
+  ],
+  "e": "Section 337, LGC: actual collections plus 50% of uncollected estimated revenue.",
+  "s": "BBM Part II, Ch. 4"
+ },
+ {
+  "src": "BBM",
+  "c": "Accountability",
+  "q": "The Quarterly Report of Receipts (BBAc Form 1) is due on or before:",
+  "o": [
+   "The 10th day of the month after the quarter",
+   "The 30th day after the quarter",
+   "March 31",
+   "The 15th of the next semester"
+  ],
+  "e": "BBAc Forms 1 to 3 are submitted on or before the 10th day of the month following the quarter.",
+  "s": "BBM Part II, Ch. 5"
+ },
+ {
+  "src": "BBM",
+  "c": "Accountability",
+  "q": "The semestral Budget Performance Report (BBAc Form 4) is due on or before:",
+  "o": [
+   "The 15th day of the month after the semester",
+   "The 5th day",
+   "The last day of the year",
+   "The 20th of the quarter"
+  ],
+  "e": "It is jointly prepared by the Treasurer and Secretary by the 15th day after each semester.",
+  "s": "BBM Part II, Ch. 5"
+ },
+ {
+  "src": "BBM",
+  "c": "Accountability",
+  "q": "Accountability reports are posted in how many conspicuous places?",
+  "o": [
+   "Three",
+   "One",
+   "Five",
+   "Seven"
+  ],
+  "e": "The Barangay Secretary posts reports in three conspicuous places.",
+  "s": "BBM Part II, Ch. 5"
+ },
+ {
+  "src": "BBM",
+  "c": "Allocations",
+  "q": "The share of all barangays in the National Tax Allotment is:",
+  "o": [
+   "20%",
+   "23%",
+   "34%",
+   "40%"
+  ],
+  "e": "NTA: provinces 23%, cities 23%, municipalities 34%, barangays 20%.",
+  "s": "BBM Part III, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Allocations",
+  "q": "The minimum NTA share per barangay with at least 100 inhabitants is:",
+  "o": [
+   "₱80,000 a year",
+   "₱100,000 a year",
+   "₱50,000 a year",
+   "₱200,000 a year"
+  ],
+  "e": "Each eligible barangay gets a minimum of ₱80,000 a year.",
+  "s": "BBM Part III, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Allocations",
+  "q": "After the minimum, the remaining barangay NTA is distributed:",
+  "o": [
+   "60% by population and 40% equally",
+   "50% population and 50% area",
+   "70% population and 30% area",
+   "All equally"
+  ],
+  "e": "The balance goes 60% on population and 40% equal sharing.",
+  "s": "BBM Part III, Ch. 1"
+ },
+ {
+  "src": "BBM",
+  "c": "Allocations",
+  "q": "Barangay share of national wealth proceeds where resources are within a province:",
+  "o": [
+   "35%",
+   "20%",
+   "45%",
+   "65%"
+  ],
+  "e": "Province 20%, component city/municipality 45%, barangay 35%.",
+  "s": "BBM Part III, Ch. 2"
+ },
+ {
+  "src": "BBM",
+  "c": "Internal Control",
+  "q": "Who has direct responsibility to design, install, implement and monitor the barangay internal control system?",
+  "o": [
+   "The Punong Barangay",
+   "The Barangay Treasurer",
+   "The COA Auditor",
+   "The City Accountant"
+  ],
+  "e": "The Punong Barangay is directly responsible for the system of internal control.",
+  "s": "BBM Part IV"
+ },
+ {
+  "src": "BBM",
+  "c": "Internal Control",
+  "q": "Which is one of the four risk responses in internal control?",
+  "o": [
+   "Terminate",
+   "Delegate",
+   "Ignore",
+   "Postpone"
+  ],
+  "e": "The responses are transfer, tolerate, terminate and treat.",
+  "s": "BBM Part IV"
+ },
+ {
+  "src": "BBM",
+  "c": "FAQ",
+  "q": "BHW and BNS honoraria may not exceed the minimum salary of which grade?",
+  "o": [
+   "SG-4",
+   "SG-1",
+   "SG-8",
+   "SG-11"
+  ],
+  "e": "BHWs and BNS may receive honoraria not exceeding the SG-4 minimum rate.",
+  "s": "BBM Part V, FAQ 29"
+ },
+ {
+  "src": "BBM",
+  "c": "FAQ",
+  "q": "Honoraria for tanods and Lupong Tagapamayapa members may not exceed the minimum salary of which grade?",
+  "o": [
+   "SG-1",
+   "SG-4",
+   "SG-6",
+   "SG-10"
+  ],
+  "e": "Per LBC No. 63, the total may not exceed the minimum rate of SG-1.",
+  "s": "BBM Part V, FAQ 27"
+ },
+ {
+  "src": "BBM",
+  "c": "FAQ",
+  "q": "Barangay officials are entitled to which instead of terminal leave benefits?",
+  "o": [
+   "Cumulation and commutation of leave credits",
+   "Hazard pay",
+   "Separation pay",
+   "Nothing at all"
+  ],
+  "e": "Leave credits cumulate up to one year and are commuted yearly.",
+  "s": "BBM Part V, FAQ 28"
+ },
+ {
+  "src": "BBM",
+  "c": "FAQ",
+  "q": "Can a barangay pass an augmentation ordinance while operating under a reenacted budget?",
+  "o": [
+   "No, there is no approved annual budget",
+   "Yes, always",
+   "Yes, with SP approval",
+   "Only for PS"
+  ],
+  "e": "Savings and augmentation require an approved annual budget for the current year.",
+  "s": "BBM Part V, FAQ 22"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "What is the Small Value Procurement (SVP) threshold for barangays?",
+  "o": [
+   "₱100,000",
+   "₱200,000",
+   "₱400,000",
+   "₱2,000,000"
+  ],
+  "e": "Section 34.2 sets the SVP ceiling for barangays at ₱100,000.",
+  "s": "IRR Sec. 34.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "Under SVP, how many suppliers must receive the RFQ?",
+  "o": [
+   "At least three",
+   "At least five",
+   "Only one",
+   "At least ten"
+  ],
+  "e": "The BAC sends RFQs to at least three suppliers; receiving one quotation is enough to evaluate.",
+  "s": "IRR Sec. 34.3"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "For SVP with an ABC above ₱200,000, the RFQ is posted for:",
+  "o": [
+   "Three calendar days",
+   "Seven calendar days",
+   "Fifteen calendar days",
+   "Thirty calendar days"
+  ],
+  "e": "RFQ/RFP is posted for three calendar days on PhilGEPS, the entity website and a conspicuous place.",
+  "s": "IRR Sec. 34.3"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "Direct Acquisition covers goods and services with an ABC not exceeding:",
+  "o": [
+   "₱200,000",
+   "₱100,000",
+   "₱500,000",
+   "₱1,000,000"
+  ],
+  "e": "Direct Acquisition allows purchase from known reputable sources up to ₱200,000 without canvass.",
+  "s": "IRR Sec. 32.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "A Repeat Order must be availed of within how long from the notice to proceed of the original contract?",
+  "o": [
+   "Six months",
+   "One month",
+   "One year",
+   "Two years"
+  ],
+  "e": "Repeat Order must be within six months from the NTP of the original contract.",
+  "s": "IRR Sec. 33.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "A Repeat Order may not exceed what share of the original contract quantity of each item?",
+  "o": [
+   "25%",
+   "10%",
+   "50%",
+   "100%"
+  ],
+  "e": "Repeat Orders are capped at 25% of the quantity of each item and need at least four units per item.",
+  "s": "IRR Sec. 33.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "Negotiated Procurement after failed biddings requires how many failures?",
+  "o": [
+   "Two failures of bidding",
+   "One failure",
+   "Three failures",
+   "None"
+  ],
+  "e": "After a second failure of bidding the entity may resort to negotiated procurement.",
+  "s": "IRR Sec. 35.1, 64.5"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "After two failed biddings, the ABC may be increased by not more than:",
+  "o": [
+   "20% of the ABC of the last failed bidding",
+   "10%",
+   "50%",
+   "100%"
+  ],
+  "e": "The BAC may revise the ABC, but not by more than 20% of the last failed bidding's ABC.",
+  "s": "IRR Sec. 35.1.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "Which is a ground for Negotiated Procurement (emergency)?",
+  "o": [
+   "Imminent danger to life or property during a state of calamity",
+   "Lack of budget",
+   "Supplier preference",
+   "Year-end rush"
+  ],
+  "e": "Emergency cases include imminent danger to life or property during a state of calamity.",
+  "s": "IRR Sec. 35.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "How many modes of procurement are listed in Section 26 of the IRR?",
+  "o": [
+   "Eleven",
+   "Five",
+   "Eight",
+   "Fifteen"
+  ],
+  "e": "The IRR lists eleven modes, from Competitive Bidding to Direct Procurement for STI.",
+  "s": "IRR Sec. 26.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "Which items are NOT procurement activities under the Act?",
+  "o": [
+   "Engagement of Contract of Service and Job Order workers",
+   "Purchase of office supplies",
+   "Construction of a barangay hall",
+   "Hiring of consultants"
+  ],
+  "e": "COS and JO engagement, direct assistance to beneficiaries and training participation are not procurement.",
+  "s": "IRR Sec. 4.4"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "Common-Use Supplies and Equipment (CSE) are procured from:",
+  "o": [
+   "PS-DBM through PhilGEPS",
+   "Any local store always",
+   "The Barangay Treasurer",
+   "The City Treasurer only"
+  ],
+  "e": "All LGUs procure CSE only from PS-DBM, subject to availability and listed exceptions.",
+  "s": "IRR Sec. 40"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "The mandatory video recording of conferences applies to goods costing above:",
+  "o": [
+   "₱10,000,000",
+   "₱1,000,000",
+   "₱5,000,000",
+   "₱100,000"
+  ],
+  "e": "Video recording applies to goods above ₱10M, infrastructure above ₱20M and consulting above ₱5M.",
+  "s": "IRR Sec. 38.3"
+ },
+ {
+  "src": "IRR",
+  "c": "Modes",
+  "q": "Renewal of regular and recurring services is generally limited to:",
+  "o": [
+   "One year per renewal",
+   "Six months",
+   "Three years",
+   "Five years"
+  ],
+  "e": "Each renewed contract shall not exceed one year, except office space rent and telecommunications.",
+  "s": "IRR Sec. 18.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Planning",
+  "q": "Who prepares the Project Procurement Management Plan (PPMP)?",
+  "o": [
+   "The End-User or Implementing Unit",
+   "The BAC Chairperson",
+   "The COA Auditor",
+   "The City Mayor"
+  ],
+  "e": "End-User or Implementing Units formulate PPMPs; the BAC Secretariat consolidates them into the APP.",
+  "s": "IRR Sec. 7.7"
+ },
+ {
+  "src": "IRR",
+  "c": "Planning",
+  "q": "No government procurement may be undertaken unless it is in accordance with:",
+  "o": [
+   "The approved Indicative or final APP",
+   "The previous year's budget",
+   "The PB's verbal approval",
+   "The SK plan"
+  ],
+  "e": "Section 7.8: procurement must follow the approved Indicative APP or final APP.",
+  "s": "IRR Sec. 7.8"
+ },
+ {
+  "src": "IRR",
+  "c": "Planning",
+  "q": "The approved final APP must be posted and submitted to the GPPB by:",
+  "o": [
+   "End of January of the budget year",
+   "End of June",
+   "End of the fiscal year",
+   "End of December before the budget year"
+  ],
+  "e": "The final APP is posted and submitted to the GPPB on or before the end of January.",
+  "s": "IRR Sec. 7.7.5"
+ },
+ {
+  "src": "IRR",
+  "c": "Planning",
+  "q": "Market scoping is conducted:",
+  "o": [
+   "As a preliminary undertaking in preparing the PPMP",
+   "After the award",
+   "Only for infrastructure",
+   "Only above ₱5 million"
+  ],
+  "e": "The End-User or Implementing Unit conducts market scoping when preparing the PPMP.",
+  "s": "IRR Sec. 10"
+ },
+ {
+  "src": "IRR",
+  "c": "Planning",
+  "q": "Early Procurement Activities may proceed up to, but short of:",
+  "o": [
+   "Award of contract",
+   "Bid opening",
+   "Posting of ITB",
+   "Eligibility screening"
+  ],
+  "e": "EPA is done short of award, pending approval of the funding such as the appropriation ordinance.",
+  "s": "IRR Sec. 12"
+ },
+ {
+  "src": "IRR",
+  "c": "Planning",
+  "q": "For LGUs, the Approved Budget for the Contract (ABC) is approved through:",
+  "o": [
+   "An appropriation ordinance of the Sanggunian",
+   "The BAC resolution only",
+   "A COA circular",
+   "The City Treasurer"
+  ],
+  "e": "For LGUs the budget for the contract is approved by the Sanggunian through an appropriation ordinance.",
+  "s": "IRR Sec. 5(a)"
+ },
+ {
+  "src": "IRR",
+  "c": "Planning",
+  "q": "Subcontracting is limited to what share for Goods?",
+  "o": [
+   "20%",
+   "50%",
+   "10%",
+   "75%"
+  ],
+  "e": "Subcontracted portion may not exceed 20% for Goods and 50% for Infrastructure Projects.",
+  "s": "IRR Sec. 7.5.1.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Planning",
+  "q": "Splitting of government contracts is:",
+  "o": [
+   "Prohibited",
+   "Allowed below ₱100,000",
+   "Allowed per fiscal quarter",
+   "Allowed with SB approval"
+  ],
+  "e": "Dividing contracts to evade the Act is not allowed; procurement by lot or package is allowed.",
+  "s": "IRR Sec. 39"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "A barangay BAC is composed of how many regular SB members, excluding the Punong Barangay?",
+  "o": [
+   "Five or seven",
+   "Three",
+   "Nine",
+   "Ten"
+  ],
+  "e": "The BAC has five or seven regular members of the Sangguniang Barangay except the PB.",
+  "s": "IRR Sec. 41.2.3"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "Who designates the BAC Chairperson in a barangay?",
+  "o": [
+   "The Punong Barangay",
+   "The City Mayor",
+   "The COA Auditor",
+   "The Barangay Treasurer"
+  ],
+  "e": "The Punong Barangay, as local chief executive, designates the chair, vice-chair and members.",
+  "s": "IRR Sec. 41.2.3"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "The fixed term of BAC members is:",
+  "o": [
+   "One year, renewable",
+   "Six months",
+   "Three years",
+   "Until the end of the PB's term"
+  ],
+  "e": "Members have a one-year term, with no more than three consecutive terms unless allowed by the HoPE.",
+  "s": "IRR Sec. 41.2.6"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "A BAC quorum is a majority of members, which must include:",
+  "o": [
+   "The Chairperson or Vice-Chairperson",
+   "The Treasurer",
+   "The COA Auditor",
+   "The Mayor"
+  ],
+  "e": "The presence of the Chairperson or Vice-Chairperson is required for a quorum.",
+  "s": "IRR Sec. 42.2"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "The BAC Chairperson votes only:",
+  "o": [
+   "In case of a tie",
+   "Always",
+   "Never",
+   "On awards only"
+  ],
+  "e": "The Chairperson, or in absence the Vice-Chairperson, votes only in case of a tie.",
+  "s": "IRR Sec. 42.3"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "BAC honoraria may not exceed what share of basic monthly salary?",
+  "o": [
+   "30%",
+   "10%",
+   "50%",
+   "100%"
+  ],
+  "e": "Honoraria for BAC, TWG and ad hoc Secretariat are capped at 30% of basic monthly salary.",
+  "s": "IRR Sec. 45"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "The BAC must invite at least how many observers?",
+  "o": [
+   "Two, apart from the COA representative",
+   "One",
+   "Five",
+   "None"
+  ],
+  "e": "At least two observers: one from a private group and one from a CSO or PO.",
+  "s": "IRR Sec. 43.1"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "Observers must be invited at least how many calendar days before the activity?",
+  "o": [
+   "Five",
+   "One",
+   "Fifteen",
+   "Thirty"
+  ],
+  "e": "Observers are invited in writing at least five calendar days before the stage.",
+  "s": "IRR Sec. 43.2"
+ },
+ {
+  "src": "IRR",
+  "c": "BAC",
+  "q": "If observers submit no report within seven days after the activity, it is presumed that:",
+  "o": [
+   "The BAC followed the correct procedure",
+   "The bidding is void",
+   "A protest was filed",
+   "The activity is repeated"
+  ],
+  "e": "Absence of a report within seven calendar days creates a presumption of proper procedure.",
+  "s": "IRR Sec. 43.4"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "A pre-bid conference is mandatory for projects with an ABC of:",
+  "o": [
+   "₱3,000,000 or more",
+   "₱100,000 or more",
+   "₱1,000,000 or more",
+   "₱10,000,000 or more"
+  ],
+  "e": "The BAC shall conduct at least one pre-bid conference for ABC of ₱3M or more.",
+  "s": "IRR Sec. 51.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "The pre-bid conference is held at least how many days before the bid deadline?",
+  "o": [
+   "Twelve calendar days",
+   "Three",
+   "Thirty",
+   "Sixty"
+  ],
+  "e": "It is held at least 12 calendar days before the deadline, not earlier than 7 days from posting.",
+  "s": "IRR Sec. 51.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "Supplemental Bid Bulletins amending Bidding Documents are issued at least how many days before bids are due?",
+  "o": [
+   "Seven calendar days",
+   "One",
+   "Three",
+   "Fifteen"
+  ],
+  "e": "Bid Bulletins are issued at least seven calendar days before the deadline.",
+  "s": "IRR Sec. 51.4-51.5"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "The maximum period from posting of the ITB to receipt of bids for Goods is:",
+  "o": [
+   "Forty-five calendar days",
+   "Seven",
+   "Twenty",
+   "Ninety"
+  ],
+  "e": "For Goods, a maximum of 45 calendar days from the last day of posting.",
+  "s": "IRR Sec. 54.5"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "Bids submitted after the deadline are:",
+  "o": [
+   "Not accepted",
+   "Accepted with a fine",
+   "Evaluated last",
+   "Returned with a penalty"
+  ],
+  "e": "Late bids are not accepted and are recorded in the minutes.",
+  "s": "IRR Sec. 54.6"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "Bids and bid securities are valid for no more than:",
+  "o": [
+   "120 calendar days from bid opening",
+   "30 days",
+   "60 days",
+   "One year"
+  ],
+  "e": "Bid validity may not exceed 120 calendar days from the date of bid opening.",
+  "s": "IRR Sec. 57.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "Bid security in cash or cashier's check must be at least what share of the ABC?",
+  "o": [
+   "2%",
+   "5%",
+   "10%",
+   "30%"
+  ],
+  "e": "Cash or cashier's or manager's check requires 2% of the ABC; bank guarantee or surety bond 5%.",
+  "s": "IRR Sec. 56.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "Which is an acceptable form of bid security?",
+  "o": [
+   "A Bid Securing Declaration",
+   "A post-dated check",
+   "A promissory note",
+   "A character reference"
+  ],
+  "e": "Bidding Documents must include a Bid Securing Declaration among at least three forms of bid security.",
+  "s": "IRR Sec. 56.3"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "A bid price higher than the ABC results in:",
+  "o": [
+   "Automatic disqualification",
+   "A price adjustment",
+   "A negotiation",
+   "A reduced bid security"
+  ],
+  "e": "The ABC is the ceiling; bids above it are automatically disqualified.",
+  "s": "IRR Sec. 60.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "Bid evaluation for the Lowest Calculated Bid must be completed within:",
+  "o": [
+   "Seven calendar days from the bid deadline",
+   "One day",
+   "Thirty days",
+   "Sixty days"
+  ],
+  "e": "Evaluation under LCB is completed within seven calendar days.",
+  "s": "IRR Sec. 61.2.5"
+ },
+ {
+  "src": "IRR",
+  "c": "Bidding",
+  "q": "In MEARB evaluation, the price proposal is weighted at:",
+  "o": [
+   "15% to 40%",
+   "1% to 5%",
+   "50% to 70%",
+   "100%"
+  ],
+  "e": "The price proposal is given a minimum weight of 15% up to 40%.",
+  "s": "IRR Sec. 61.3"
+ },
+ {
+  "src": "IRR",
+  "c": "Award",
+  "q": "After notice, the bidder with the lowest bid submits post-qualification documents within:",
+  "o": [
+   "Five calendar days",
+   "One day",
+   "Thirty days",
+   "Sixty days"
+  ],
+  "e": "The bidder submits eligibility documents within five calendar days from notice.",
+  "s": "IRR Sec. 63.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Award",
+  "q": "Post-qualification is completed in not more than:",
+  "o": [
+   "Twelve calendar days",
+   "Three days",
+   "Thirty days",
+   "Ninety days"
+  ],
+  "e": "The BAC completes post-qualification within 12 days, extendable to an aggregate of 45 days for Goods.",
+  "s": "IRR Sec. 63.8"
+ },
+ {
+  "src": "IRR",
+  "c": "Award",
+  "q": "From bid opening to award, the process shall not exceed:",
+  "o": [
+   "Sixty calendar days",
+   "Ten days",
+   "Thirty days",
+   "One year"
+  ],
+  "e": "Section 67: the process from opening of bids to award shall not exceed 60 calendar days.",
+  "s": "IRR Sec. 67.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Award",
+  "q": "The HoPE approves or disapproves the BAC recommendation to award within:",
+  "o": [
+   "Ten calendar days",
+   "One day",
+   "Thirty days",
+   "Sixty days"
+  ],
+  "e": "The HoPE has not more than ten calendar days from the BAC recommendation to act.",
+  "s": "IRR Sec. 66.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Award",
+  "q": "After the Notice of Award, the winning bidder posts performance security and signs the contract within:",
+  "o": [
+   "Ten calendar days",
+   "One day",
+   "Thirty days",
+   "Sixty days"
+  ],
+  "e": "Documents, performance security and contract signing must be completed within ten calendar days.",
+  "s": "IRR Sec. 66.5"
+ },
+ {
+  "src": "IRR",
+  "c": "Award",
+  "q": "Performance security in cash for Goods is not less than:",
+  "o": [
+   "5% of the contract price",
+   "1%",
+   "10%",
+   "30%"
+  ],
+  "e": "For Goods and Consulting Services 5%; Infrastructure Projects 10%; surety bond 30%.",
+  "s": "IRR Sec. 68.4"
+ },
+ {
+  "src": "IRR",
+  "c": "Award",
+  "q": "Failure of bidding is declared when:",
+  "o": [
+   "No bid qualifies as the lowest calculated responsive bid",
+   "One bidder participates",
+   "The bid is below the ABC",
+   "The BAC is late"
+  ],
+  "e": "Failure of bidding includes no bids received, all ineligible, or no bid qualifying as responsive.",
+  "s": "IRR Sec. 64.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Protest",
+  "q": "A request for reconsideration of a BAC decision is filed within:",
+  "o": [
+   "Three calendar days",
+   "One day",
+   "Seven days",
+   "Thirty days"
+  ],
+  "e": "The bidder files within three days; the BAC decides within seven days.",
+  "s": "IRR Sec. 83.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Protest",
+  "q": "After a denied request for reconsideration, a protest to the HoPE is filed within:",
+  "o": [
+   "Seven calendar days",
+   "Three days",
+   "Fifteen days",
+   "Sixty days"
+  ],
+  "e": "The protest is filed within seven days from receipt of the denial.",
+  "s": "IRR Sec. 83.2"
+ },
+ {
+  "src": "IRR",
+  "c": "Protest",
+  "q": "For LGUs, the HoPE decision on protests is final for Goods of:",
+  "o": [
+   "₱1,250,000 and below",
+   "₱10,000,000",
+   "₱20,000,000",
+   "₱500,000"
+  ],
+  "e": "For LGUs, finality applies to Goods up to ₱1.25M, infrastructure up to ₱12.5M and consulting up to ₱2.5M.",
+  "s": "IRR Sec. 84.3"
+ },
+ {
+  "src": "IRR",
+  "c": "Contract",
+  "q": "Liquidated damages are at least what share of the unperformed portion per day of delay?",
+  "o": [
+   "One-tenth of one percent",
+   "One percent",
+   "Five percent",
+   "Ten percent"
+  ],
+  "e": "The rate is at least 1/10 of 1% of the cost of the unperformed portion for every day of delay.",
+  "s": "IRR Sec. 97"
+ },
+ {
+  "src": "IRR",
+  "c": "Contract",
+  "q": "When liquidated damages reach what share of the contract price may the entity terminate?",
+  "o": [
+   "Ten percent",
+   "Five percent",
+   "Twenty percent",
+   "Fifty percent"
+  ],
+  "e": "Once cumulative liquidated damages reach 10% of the contract price, the entity may terminate.",
+  "s": "IRR Sec. 97"
+ },
+ {
+  "src": "IRR",
+  "c": "Contract",
+  "q": "Cumulative positive Variation Orders for infrastructure are limited to:",
+  "o": [
+   "10% of the original contract price",
+   "50%",
+   "2%",
+   "100%"
+  ],
+  "e": "Positive Variation Orders may not exceed 10%, and up to 20% only in exceptional cases.",
+  "s": "IRR Sec. 71.2.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Contract",
+  "q": "Advance payment for Infrastructure Projects may not exceed:",
+  "o": [
+   "15% of the contract price",
+   "5%",
+   "30%",
+   "50%"
+  ],
+  "e": "Advance payment is up to 15% with an irrevocable standby letter of credit, bank guarantee or surety bond.",
+  "s": "IRR Sec. 71.2.5"
+ },
+ {
+  "src": "IRR",
+  "c": "Contract",
+  "q": "Retention money on infrastructure progress payments is:",
+  "o": [
+   "10%",
+   "1%",
+   "25%",
+   "50%"
+  ],
+  "e": "Progress payments are subject to 10% retention until 50% of the works are completed.",
+  "s": "IRR Sec. 71.2.8"
+ },
+ {
+  "src": "IRR",
+  "c": "Contract",
+  "q": "The warranty period for Non-expendable Supplies is at least:",
+  "o": [
+   "One year",
+   "Three months",
+   "Five years",
+   "Fifteen years"
+  ],
+  "e": "Warranty is three months for expendable and one year for non-expendable supplies.",
+  "s": "IRR Sec. 90.1"
+ },
+ {
+  "src": "IRR",
+  "c": "Contract",
+  "q": "The structural defects warranty for permanent structures runs for:",
+  "o": [
+   "Fifteen years",
+   "Two years",
+   "Five years",
+   "One year"
+  ],
+  "e": "Permanent structures 15 years, semi-permanent 5 years, other structures 2 years.",
+  "s": "IRR Sec. 90.2.3"
+ },
+ {
+  "src": "IRR",
+  "c": "Sanctions",
+  "q": "Suspension for the first offense lasts:",
+  "o": [
+   "One year",
+   "Six months",
+   "Five years",
+   "Perpetual"
+  ],
+  "e": "Suspension is one year for the first offense and two years for the second.",
+  "s": "IRR Sec. 99"
+ },
+ {
+  "src": "IRR",
+  "c": "Sanctions",
+  "q": "Blacklisting with perpetual disqualification applies after:",
+  "o": [
+   "A third offense imposed with blacklisting",
+   "The first late bid",
+   "A request for reconsideration",
+   "A protest"
+  ],
+  "e": "A third offense, or a combination of three blacklisting violations, brings perpetual disqualification.",
+  "s": "IRR Sec. 101"
+ },
+ {
+  "src": "IRR",
+  "c": "Eligibility",
+  "q": "Relation of a bidder to BAC members within what degree results in automatic disqualification?",
+  "o": [
+   "Third civil degree",
+   "First degree",
+   "Fifth degree",
+   "Seventh degree"
+  ],
+  "e": "Bidders must swear they are not related to the HoPE, BAC, TWG and others up to the third civil degree.",
+  "s": "IRR Sec. 81"
+ },
+ {
+  "src": "IRR",
+  "c": "Eligibility",
+  "q": "The PhilGEPS Certificate of Registration (Platinum Membership) is effective for:",
+  "o": [
+   "One year",
+   "Three months",
+   "Five years",
+   "Ten years"
+  ],
+  "e": "The Certificate is effective for one year and may be renewed or updated.",
+  "s": "IRR Sec. 20.2.9"
+ },
+ {
+  "src": "IRR",
+  "c": "Eligibility",
+  "q": "The Single Largest Completed Contract (SLCC) for Goods must be at least what share of the ABC?",
+  "o": [
+   "50%",
+   "10%",
+   "25%",
+   "100%"
+  ],
+  "e": "The bidder must have completed within ten years an SLCC at least 50% of the ABC.",
+  "s": "IRR Sec. 52.4.1.3"
+ },
+ {
+  "src": "IRR",
+  "c": "Preference",
+  "q": "Domestic preference applies if the domestic bid is not more than what share above the lowest foreign bid?",
+  "o": [
+   "25%",
+   "5%",
+   "10%",
+   "50%"
+  ],
+  "e": "The entity awards to the domestic bidder if its bid is not more than 25% in excess of the lowest foreign bid.",
+  "s": "IRR Sec. 79.5"
+ },
+ {
+  "src": "COA",
+  "c": "Accounting",
+  "q": "The barangay fiscal year runs from:",
+  "o": [
+   "January 1 to December 31",
+   "July 1 to June 30",
+   "October 1 to September 30",
+   "April 1 to March 31"
+  ],
+  "e": "For accounting purposes the fiscal year starts January 1 and ends December 31.",
+  "s": "COA Manual Sec. 1.2.1"
+ },
+ {
+  "src": "COA",
+  "c": "Accounting",
+  "q": "Barangay accounts are kept under which system?",
+  "o": [
+   "Double-entry bookkeeping",
+   "Single-entry",
+   "Cash basis only",
+   "Memorandum entries only"
+  ],
+  "e": "Barangay accounts are kept under a double-entry bookkeeping system.",
+  "s": "COA Manual Sec. 1.2.2"
+ },
+ {
+  "src": "COA",
+  "c": "Accounting",
+  "q": "Who maintains the books of accounts of a barangay?",
+  "o": [
+   "The City/Municipal Accountant",
+   "The Barangay Treasurer",
+   "The Barangay Secretary",
+   "The Punong Barangay"
+  ],
+  "e": "The Journal of Cash Transactions, General Journal, General Ledger and Subsidiary Ledgers are kept by the C/M Accountant.",
+  "s": "COA Manual Sec. 1.2.4"
+ },
+ {
+  "src": "COA",
+  "c": "Accounting",
+  "q": "Non-cash transactions are recorded in the:",
+  "o": [
+   "General Journal through a Journal Voucher",
+   "Journal of Cash Transactions",
+   "Cashbook",
+   "Stock Card"
+  ],
+  "e": "Cash transactions go to the JCT; non-cash to the GJ through a JV.",
+  "s": "COA Manual Sec. 1.2.5"
+ },
+ {
+  "src": "COA",
+  "c": "Accounting",
+  "q": "The Cashbook is maintained and updated:",
+  "o": [
+   "Daily by the Barangay Treasurer",
+   "Monthly by the Accountant",
+   "Yearly by the Auditor",
+   "Quarterly by the Secretary"
+  ],
+  "e": "A Cashbook is maintained and updated daily.",
+  "s": "COA Manual Sec. 1.2.11"
+ },
+ {
+  "src": "COA",
+  "c": "Accounting",
+  "q": "Funds granted to a barangay for a specific purpose are recognized as:",
+  "o": [
+   "Special Trust Fund",
+   "General Fund income",
+   "Regular income",
+   "Capital outlay"
+  ],
+  "e": "Specific-purpose grants are recognized as Special Trust Fund.",
+  "s": "COA Manual Sec. 1.2.6"
+ },
+ {
+  "src": "COA",
+  "c": "Accounting",
+  "q": "Unspent current-year LDRRMF at year-end is transferred to:",
+  "o": [
+   "Special Trust Fund",
+   "General Fund surplus",
+   "SK Fund",
+   "Development Fund"
+  ],
+  "e": "Unspent LDRRMF is recorded as Special Trust Fund and tracked in the RSTF.",
+  "s": "COA Manual Sec. 1.2.8, 11.1.5"
+ },
+ {
+  "src": "COA",
+  "c": "Accounting",
+  "q": "Which record tracks each Special Trust Fund until fully used?",
+  "o": [
+   "Registry of Special Trust Fund (RSTF)",
+   "Cashbook",
+   "Stock Card",
+   "Report of Collections and Deposits"
+  ],
+  "e": "An RSTF is maintained for each STF until fully utilized.",
+  "s": "COA Manual Sec. 11.1.3"
+ },
+ {
+  "src": "COA",
+  "c": "Appropriations",
+  "q": "Who maintains the Record of Appropriations and Obligations (RAO)?",
+  "o": [
+   "The Chairman of the Committee on Appropriations",
+   "The Barangay Treasurer",
+   "The Barangay Secretary",
+   "The C/M Accountant"
+  ],
+  "e": "The CCA records appropriations and obligations in the RAO.",
+  "s": "COA Manual Sec. 3.1.2"
+ },
+ {
+  "src": "COA",
+  "c": "Appropriations",
+  "q": "Which is a separate RAO required?",
+  "o": [
+   "10% SK share",
+   "Utility expenses",
+   "Travel",
+   "Office supplies"
+  ],
+  "e": "Separate RAOs are kept for 10% SK, 5% LDRRMF, 20% Development Fund and continuing appropriations.",
+  "s": "COA Manual Sec. 3.1.2"
+ },
+ {
+  "src": "COA",
+  "c": "Appropriations",
+  "q": "The CCA reports appropriations and balances to the PB and SB through the:",
+  "o": [
+   "Statement of Appropriations, Obligations and Balances",
+   "Cashbook",
+   "Trial Balance",
+   "Journal Voucher"
+  ],
+  "e": "The SAOB is prepared monthly and certified correct by the CCA.",
+  "s": "COA Manual Sec. 3.1.6"
+ },
+ {
+  "src": "COA",
+  "c": "Appropriations",
+  "q": "The Record of Estimated and Actual Income (REAI) is maintained by:",
+  "o": [
+   "The Barangay Treasurer",
+   "The CCA",
+   "The Barangay Secretary",
+   "The COA Auditor"
+  ],
+  "e": "The BT maintains it monthly and submits it to the C/M Accountant at year-end.",
+  "s": "COA Manual Sec. 3.1.8"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "Which is the Official Receipt form used by barangays?",
+  "o": [
+   "Accountable Form No. 51",
+   "Accountable Form No. 56",
+   "Form 1",
+   "Form 12"
+  ],
+  "e": "OR is Accountable Form No. 51; Real Property Tax Receipt is Form No. 56.",
+  "s": "COA Manual Sec. 4.1.2"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "Temporary or provisional receipts:",
+  "o": [
+   "May not be issued to acknowledge collections",
+   "May be issued for amounts under ₱500",
+   "Are allowed at year-end",
+   "Are allowed for donations"
+  ],
+  "e": "Temporary or provisional receipts shall not be issued.",
+  "s": "COA Manual Sec. 4.1.5"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "Official receipts are issued:",
+  "o": [
+   "In strict numerical sequence",
+   "In any order",
+   "By the Auditor",
+   "Only by the Secretary"
+  ],
+  "e": "ORs are issued in strict numerical sequence, without erasures or alterations.",
+  "s": "COA Manual Sec. 4.1.3"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "Barangay collections are deposited intact:",
+  "o": [
+   "Daily",
+   "Monthly",
+   "Quarterly",
+   "Yearly"
+  ],
+  "e": "Collections are deposited intact daily; if the bank is over a day away, weekly or once collections reach ₱5,000.",
+  "s": "COA Manual Sec. 4.1.12"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "Where travel time to the bank exceeds one day, deposits are made at least weekly or when collections reach:",
+  "o": [
+   "₱5,000",
+   "₱1,000",
+   "₱20,000",
+   "₱100,000"
+  ],
+  "e": "Deposit weekly or as soon as collections reach ₱5,000.",
+  "s": "COA Manual Sec. 4.1.12"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "As deputized collector of the city or municipality, the BT remits collections daily or once they reach:",
+  "o": [
+   "₱5,000",
+   "₱500",
+   "₱50,000",
+   "₱1,000,000"
+  ],
+  "e": "Collections are remitted intact to the C/M Treasurer daily or at ₱5,000.",
+  "s": "COA Manual Sec. 4.1.13"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "How many depository accounts may a barangay maintain with the AGDB?",
+  "o": [
+   "One",
+   "Two",
+   "Three",
+   "As many as it likes"
+  ],
+  "e": "The barangay maintains only one depository account in its name with the AGDB.",
+  "s": "COA Manual Sec. 4.1.15"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "Only checks payable to whom are accepted as payment to the barangay?",
+  "o": [
+   "The barangay",
+   "The Punong Barangay",
+   "The Treasurer",
+   "The payor"
+  ],
+  "e": "Only checks in the name of the barangay are accepted.",
+  "s": "COA Manual Sec. 4.1.10"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "Collections may NOT be used to:",
+  "o": [
+   "Encash checks",
+   "Be deposited",
+   "Be recorded in the Cashbook",
+   "Be supported by ORs"
+  ],
+  "e": "Collections shall not be used to encash checks or pay barangay obligations.",
+  "s": "COA Manual Sec. 4.1.11"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "The Report of Collections and Deposits (RCD) is submitted to the C/M Accountant on or before:",
+  "o": [
+   "The 5th day of the following month",
+   "The 20th of the same month",
+   "The last day of the quarter",
+   "January 10"
+  ],
+  "e": "BT forwards two copies of the RCD with ORs and validated deposit slips by the 5th day of the next month.",
+  "s": "COA Manual Sec. 4.2.1"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "The Report of Bank Debit and Credit Memos is prepared by:",
+  "o": [
+   "The City/Municipal Accountant",
+   "The Barangay Treasurer",
+   "The CCA",
+   "The Barangay Secretary"
+  ],
+  "e": "The C/M Accountant summarizes bank memos in the RBDCM and furnishes the BT a copy.",
+  "s": "COA Manual Sec. 4.2.6"
+ },
+ {
+  "src": "COA",
+  "c": "Collections",
+  "q": "The monthly Bank Reconciliation Statement is prepared by:",
+  "o": [
+   "The City/Municipal Accountant",
+   "The Barangay Treasurer",
+   "The COA Auditor",
+   "The Punong Barangay"
+  ],
+  "e": "The C/M Accountant prepares it upon receipt of the bank statement.",
+  "s": "COA Manual Sec. 4.2.8"
+ },
+ {
+  "src": "COA",
+  "c": "Bonding",
+  "q": "The Barangay Treasurer's bond is determined by the SB but not exceeding:",
+  "o": [
+   "₱10,000",
+   "₱100,000",
+   "₱1,000,000",
+   "₱500"
+  ],
+  "e": "The BT shall be bonded in an amount determined by the SB not exceeding ₱10,000, with premiums paid by the barangay.",
+  "s": "COA Manual Sec. 12.2.1"
+ },
+ {
+  "src": "COA",
+  "c": "Disbursements",
+  "q": "Barangay disbursements are generally made by:",
+  "o": [
+   "Checks drawn against the depository account",
+   "Cash from collections",
+   "Cash from the Secretary",
+   "Postal money orders"
+  ],
+  "e": "Disbursements shall generally be made by checks drawn against the barangay depository account.",
+  "s": "COA Manual Sec. 5.1.4"
+ },
+ {
+  "src": "COA",
+  "c": "Disbursements",
+  "q": "All check disbursements are supported with:",
+  "o": [
+   "A Punong Barangay Certification",
+   "A COA clearance",
+   "A mayor's approval",
+   "An SB resolution"
+  ],
+  "e": "All check disbursements need a PB Certification (PBC) under oath to the bank.",
+  "s": "COA Manual Sec. 5.1.5"
+ },
+ {
+  "src": "COA",
+  "c": "Disbursements",
+  "q": "Who signs the check and who countersigns?",
+  "o": [
+   "BT signs; PB countersigns",
+   "PB signs; BT countersigns",
+   "Secretary signs; PB countersigns",
+   "CCA signs; BT countersigns"
+  ],
+  "e": "The BT prepares and signs the check; the PB countersigns.",
+  "s": "COA Manual Sec. 5.2.1"
+ },
+ {
+  "src": "COA",
+  "c": "Disbursements",
+  "q": "Box A of the Disbursement Voucher is certified by:",
+  "o": [
+   "The Chairman of the Committee on Appropriations",
+   "The Barangay Treasurer",
+   "The Punong Barangay",
+   "The payee"
+  ],
+  "e": "Box A: CCA on existence of appropriation; Box B: BT on availability of funds; Box C: PB approval.",
+  "s": "COA Manual Annex 12"
+ },
+ {
+  "src": "COA",
+  "c": "Disbursements",
+  "q": "Box B of the Disbursement Voucher is certified by:",
+  "o": [
+   "The Barangay Treasurer",
+   "The Punong Barangay",
+   "The CCA",
+   "The Auditor"
+  ],
+  "e": "The BT certifies availability of funds and completeness of supporting documents.",
+  "s": "COA Manual Annex 12"
+ },
+ {
+  "src": "COA",
+  "c": "Cash Advances",
+  "q": "Elected officials may be granted a cash advance only for:",
+  "o": [
+   "Official travelling expenses",
+   "Payroll",
+   "Petty cash",
+   "Special projects"
+  ],
+  "e": "Only permanently appointed officials may be disbursing officers; elected officials may get advances only for official travel.",
+  "s": "COA Manual Sec. 5.1.6"
+ },
+ {
+  "src": "COA",
+  "c": "Cash Advances",
+  "q": "Transfer of a cash advance from one accountable officer to another is:",
+  "o": [
+   "Not allowed",
+   "Allowed with PB approval",
+   "Allowed for payroll",
+   "Allowed at year-end"
+  ],
+  "e": "Transfer of cash advance between accountable officers is not allowed.",
+  "s": "COA Manual Sec. 5.1.6"
+ },
+ {
+  "src": "COA",
+  "c": "Cash Advances",
+  "q": "All cash advances must be liquidated by:",
+  "o": [
+   "Year-end",
+   "The 15th of the next year",
+   "Within three years",
+   "When convenient"
+  ],
+  "e": "All cash advances shall be liquidated at year-end.",
+  "s": "COA Manual Sec. 5.1.7"
+ },
+ {
+  "src": "COA",
+  "c": "Cash Advances",
+  "q": "A cash advance for payroll must be liquidated within how many days after the pay period?",
+  "o": [
+   "Five days",
+   "Thirty days",
+   "Sixty days",
+   "Ninety days"
+  ],
+  "e": "Payroll advances are liquidated within five days after the end of the pay period.",
+  "s": "COA Manual Sec. 5.2.2"
+ },
+ {
+  "src": "COA",
+  "c": "Cash Advances",
+  "q": "A local travel cash advance is liquidated within how many days of return?",
+  "o": [
+   "Thirty days",
+   "Five days",
+   "Sixty days",
+   "One year"
+  ],
+  "e": "Liquidation is within 30 days for local travel and 60 days for foreign travel.",
+  "s": "COA Manual Sec. 5.2.3"
+ },
+ {
+  "src": "COA",
+  "c": "Cash Advances",
+  "q": "Cash advances not needed or unused for how long must be returned?",
+  "o": [
+   "Two months",
+   "One week",
+   "Six months",
+   "One year"
+  ],
+  "e": "Advances not needed or unused for two months are returned to the collecting officer or cashier.",
+  "s": "COA Manual Sec. 5.1.11"
+ },
+ {
+  "src": "COA",
+  "c": "Cash Advances",
+  "q": "Cash advances for infrastructure projects are not granted, except for:",
+  "o": [
+   "Labor payroll for projects by administration",
+   "Materials",
+   "Equipment rental",
+   "Contractor billings"
+  ],
+  "e": "No cash advance for payment on infrastructure projects except labor payroll for projects by administration.",
+  "s": "COA Manual Sec. 5.1.9"
+ },
+ {
+  "src": "COA",
+  "c": "Petty Cash",
+  "q": "Petty cash may not exceed what share of funds available to the credit of the barangay?",
+  "o": [
+   "20%",
+   "5%",
+   "50%",
+   "100%"
+  ],
+  "e": "Petty cash covers one month of recurring expenses but is capped at 20% of available funds.",
+  "s": "COA Manual Sec. 5.2.5"
+ },
+ {
+  "src": "COA",
+  "c": "Petty Cash",
+  "q": "Petty cash is replenished when disbursements reach at least:",
+  "o": [
+   "75% of the petty cash",
+   "10%",
+   "50%",
+   "100%"
+  ],
+  "e": "Replenish at 75% or as needed using a Summary of Petty Cash Disbursements.",
+  "s": "COA Manual Sec. 5.2.5"
+ },
+ {
+  "src": "COA",
+  "c": "Petty Cash",
+  "q": "The BT may directly purchase out of petty cash up to:",
+  "o": [
+   "₱1,000",
+   "₱5,000",
+   "₱20,000",
+   "₱100,000"
+  ],
+  "e": "Direct purchases of not more than ₱1,000 at any time for ordinary and essential needs.",
+  "s": "COA Manual Sec. 5.2.5"
+ },
+ {
+  "src": "COA",
+  "c": "Petty Cash",
+  "q": "The petty cash fund is closed at:",
+  "o": [
+   "The end of the year",
+   "The end of the month",
+   "The end of the quarter",
+   "Never"
+  ],
+  "e": "The balance is closed at year-end and renewed using the current year's appropriation.",
+  "s": "COA Manual Sec. 5.2.5"
+ },
+ {
+  "src": "COA",
+  "c": "Reporting",
+  "q": "The BT submits RCDs, liquidation reports, ORs, DVs and monthly RAAF to the C/M Accountant within:",
+  "o": [
+   "10 days after month-end",
+   "30 days",
+   "60 days",
+   "One year"
+  ],
+  "e": "The BT submits within 10 days after the end of the month.",
+  "s": "COA Manual Sec. 12.5.2"
+ },
+ {
+  "src": "COA",
+  "c": "Reporting",
+  "q": "The C/M Accountant submits monthly collection and disbursement reports to the Auditor by:",
+  "o": [
+   "The 15th working day of the next month",
+   "The 1st of the month",
+   "The end of the quarter",
+   "January 10"
+  ],
+  "e": "Reports go to the COA Auditor on or before the 15th working day of the succeeding month.",
+  "s": "COA Manual Sec. 12.5.3"
+ },
+ {
+  "src": "COA",
+  "c": "Reporting",
+  "q": "Property and supplies inventory reports are submitted not later than:",
+  "o": [
+   "January 10 of the following year",
+   "March 31",
+   "December 31",
+   "June 30"
+  ],
+  "e": "The PB submits year-end inventory reports by January 10.",
+  "s": "COA Manual Sec. 12.5.4"
+ },
+ {
+  "src": "COA",
+  "c": "Inventories",
+  "q": "Inventory costs are assigned using which method?",
+  "o": [
+   "Weighted or moving average",
+   "FIFO only",
+   "LIFO",
+   "Specific identification only"
+  ],
+  "e": "Inventory cost is assigned using the weighted (moving) average method.",
+  "s": "COA Manual Sec. 1.2.21, 6.1.6"
+ },
+ {
+  "src": "COA",
+  "c": "Inventories",
+  "q": "Supplies with serviceable life of more than one year are covered by:",
+  "o": [
+   "An Inventory Custodian Slip",
+   "A Stock Card only",
+   "A Disbursement Voucher",
+   "A Property Acknowledgement Receipt"
+  ],
+  "e": "Items with more than one year of life are covered by an ICS.",
+  "s": "COA Manual Sec. 6.1.12"
+ },
+ {
+  "src": "COA",
+  "c": "Property",
+  "q": "A Property Acknowledgement Receipt must be renewed at least every:",
+  "o": [
+   "Three years",
+   "Year",
+   "Five years",
+   "Ten years"
+  ],
+  "e": "PARs are renewed at least every three years or on change in custodianship.",
+  "s": "COA Manual Sec. 7.1.8"
+ },
+ {
+  "src": "COA",
+  "c": "Property",
+  "q": "Physical count of supplies and property is done:",
+  "o": [
+   "At least once a year",
+   "Every five years",
+   "Only at turnover",
+   "Monthly"
+  ],
+  "e": "The Inventory Committee conducts a count at least once a year.",
+  "s": "COA Manual Sec. 6.3.3, 7.2.5"
+ },
+ {
+  "src": "COA",
+  "c": "Property",
+  "q": "Depreciation is computed using the straight-line method with a residual value of:",
+  "o": [
+   "5% of cost",
+   "10%",
+   "1%",
+   "None"
+  ],
+  "e": "Straight-line depreciation after deducting residual value equivalent to 5% of cost.",
+  "s": "COA Manual Sec. 1.2.27"
+ },
+ {
+  "src": "COA",
+  "c": "Property",
+  "q": "A Request for Relief from Property Accountability for lost property is filed within:",
+  "o": [
+   "30 days from the date of loss",
+   "5 days",
+   "90 days",
+   "One year"
+  ],
+  "e": "The accountable officer files the Notice of Loss and RRPA within the statutory 30 days.",
+  "s": "COA Manual Sec. 7.2.7"
+ },
+ {
+  "src": "COA",
+  "c": "Property",
+  "q": "Disposal of real property requires approval of:",
+  "o": [
+   "COA, regardless of value",
+   "The PB only",
+   "The SB only",
+   "The Mayor"
+  ],
+  "e": "Disposal of real property is subject to COA approval regardless of value (Sec. 380, LGC).",
+  "s": "COA Manual Sec. 7.2.4"
+ },
+ {
+  "src": "COA",
+  "c": "Miscellaneous",
+  "q": "Cash overage found in a cash examination is:",
+  "o": [
+   "Forfeited in favor of the government",
+   "Returned to the BT",
+   "Divided among officers",
+   "Held for next year"
+  ],
+  "e": "Overage is forfeited in favor of the government and recorded as miscellaneous income.",
+  "s": "COA Manual Sec. 8.1.8"
+ },
+ {
+  "src": "COA",
+  "c": "Miscellaneous",
+  "q": "A cash shortage is recorded as:",
+  "o": [
+   "Due from Officers and Employees",
+   "Income",
+   "Expense immediately",
+   "Trust liability"
+  ],
+  "e": "Shortage is a receivable from the accountable officer pending relief.",
+  "s": "COA Manual Sec. 8.1.7"
+ },
+ {
+  "src": "COA",
+  "c": "Miscellaneous",
+  "q": "A check is stale if outstanding for over:",
+  "o": [
+   "Six months",
+   "One month",
+   "Three months",
+   "Two years"
+  ],
+  "e": "A check outstanding over six months from issue is stale; the payee is notified a month before.",
+  "s": "COA Manual Sec. 8.1.22"
+ },
+ {
+  "src": "COA",
+  "c": "Miscellaneous",
+  "q": "Disallowances are recorded in the books when:",
+  "o": [
+   "They become final and executory",
+   "They are issued",
+   "The auditor visits",
+   "The PB approves"
+  ],
+  "e": "Disallowances are taken up only when final and executory.",
+  "s": "COA Manual Sec. 8.1.27"
+ },
+ {
+  "src": "COA",
+  "c": "Financial Statements",
+  "q": "Year-end financial statements are prepared by the C/M Accountant within:",
+  "o": [
+   "60 days after year-end",
+   "10 days",
+   "30 days",
+   "One year"
+  ],
+  "e": "The C/M Accountant prepares the statements within 60 days after the close of the year.",
+  "s": "COA Manual Sec. 10.4"
+ },
+ {
+  "src": "COA",
+  "c": "Financial Statements",
+  "q": "The Statement of Management Responsibility is signed by:",
+  "o": [
+   "C/M Accountant, Barangay Treasurer and Punong Barangay",
+   "The Auditor",
+   "The Secretary and Treasurer only",
+   "The Mayor"
+  ],
+  "e": "It is signed by the C/M Accountant, BT and PB.",
+  "s": "COA Manual Sec. 10.3"
+ },
+ {
+  "src": "COA",
+  "c": "Financial Statements",
+  "q": "The monthly Statement of Financial Performance is submitted:",
+  "o": [
+   "30 days after the close of each month",
+   "By March 31",
+   "Yearly",
+   "Quarterly"
+  ],
+  "e": "It is prepared monthly and submitted 30 days after month-end with a copy to the Auditor.",
+  "s": "COA Manual Sec. 10.4.2"
+ },
+ {
+  "src": "COA",
+  "c": "Accountability",
+  "q": "Failure to render accounts for how long is punishable under Article 218 of the Revised Penal Code?",
+  "o": [
+   "Two months",
+   "Ten days",
+   "One year",
+   "Five years"
+  ],
+  "e": "A public officer who fails to render required accounts for two months is penalized.",
+  "s": "COA Manual Sec. 12.5.1"
+ },
+ {
+  "src": "COA",
+  "c": "Accountability",
+  "q": "Which account code is Cash - In Local Treasury?",
+  "o": [
+   "1-01-01-010",
+   "1-01-01-020",
+   "1-02-01-010",
+   "4-01-01-010"
+  ],
+  "e": "Cash-In Local Treasury is 1-01-01-010; Petty Cash is 1-01-01-020.",
+  "s": "COA Manual Ch. XIII"
+ },
+ {
+  "src": "COA",
+  "c": "Accountability",
+  "q": "Which account code is Real Property Tax revenue?",
+  "o": [
+   "4-01-01-010",
+   "1-07-01-010",
+   "2-02-01-010",
+   "5-01-01-010"
+  ],
+  "e": "Real Property Tax is 4-01-01-010.",
+  "s": "COA Manual Ch. XIII"
+ },
+ {
+  "src": "COA",
+  "c": "Accountability",
+  "q": "Which account holds taxes withheld for remittance to the BIR?",
+  "o": [
+   "Due to BIR (2-02-01-010)",
+   "Due to GSIS",
+   "Accounts Payable",
+   "Trust Liabilities"
+  ],
+  "e": "Withheld taxes are recorded in Due to BIR, account 2-02-01-010.",
+  "s": "COA Manual Ch. XIII"
+ },
+ {
+  "src": "COA",
+  "c": "Accountability",
+  "q": "Biological assets are measured at:",
+  "o": [
+   "Fair value less costs to sell",
+   "Historical cost",
+   "Net book value",
+   "Zero"
+  ],
+  "e": "Biological assets are measured at fair value less cost to sell at recognition and each reporting date.",
+  "s": "COA Manual Sec. 7.1.24"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "Under Section 130, collection of local taxes, fees and charges shall in no case be let to:",
+  "o": [
+   "Any private person",
+   "The treasurer",
+   "A deputized collector",
+   "The sanggunian"
+  ],
+  "e": "Section 130(c): the collection of local taxes, fees, charges and other impositions shall in no case be let to any private person.",
+  "s": "LGC Sec. 130"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "Revenue collected under the LGC inures solely to the benefit of:",
+  "o": [
+   "The local government unit levying it",
+   "The national government",
+   "The province",
+   "Barangays only"
+  ],
+  "e": "Section 130(d): revenue inures solely to the LGU levying it, unless otherwise provided.",
+  "s": "LGC Sec. 130"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "The power to impose a local tax is exercised by the sanggunian through:",
+  "o": [
+   "An appropriate ordinance",
+   "An executive order",
+   "A resolution of the mayor",
+   "A COA circular"
+  ],
+  "e": "Section 132: the taxing power is exercised through an appropriate ordinance.",
+  "s": "LGC Sec. 132"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "Which tax may LGUs NOT levy, except on banks and financial institutions?",
+  "o": [
+   "Income tax",
+   "Business tax on retailers",
+   "Barangay clearance fee",
+   "Community tax share"
+  ],
+  "e": "Section 133(a): taxing powers do not extend to income tax, except on banks and other financial institutions.",
+  "s": "LGC Sec. 133"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "Local governments may NOT levy which of these?",
+  "o": [
+   "Documentary stamp tax",
+   "Fees on billboards",
+   "Fees on cockpits",
+   "Barangay clearance fees"
+  ],
+  "e": "Section 133(b): documentary stamp tax is outside local taxing power.",
+  "s": "LGC Sec. 133"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "Barangay business tax on stores and retailers with fixed establishments is capped at what rate?",
+  "o": [
+   "1% of gross sales",
+   "5% of gross sales",
+   "10% of gross sales",
+   "0.1% of gross sales"
+  ],
+  "e": "Section 152(a): a rate not exceeding 1% on gross sales or receipts of the preceding calendar year.",
+  "s": "LGC Sec. 152"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "The barangay business tax on retailers applies where gross sales of the preceding year were ₱30,000 or less in:",
+  "o": [
+   "Municipalities",
+   "Provinces",
+   "Highly urbanized cities",
+   "Metro Manila only"
+  ],
+  "e": "Section 152(a): ₱50,000 or less in cities and ₱30,000 or less in municipalities.",
+  "s": "LGC Sec. 152"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "A barangay clearance application must be acted upon within:",
+  "o": [
+   "Seven working days",
+   "One day",
+   "Thirty days",
+   "Sixty days"
+  ],
+  "e": "Section 152(c): if not issued in seven working days, the city or municipality may issue the permit.",
+  "s": "LGC Sec. 152"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "Barangays may levy fees on:",
+  "o": [
+   "Commercial breeding of fighting cocks and cockpits",
+   "Motor vehicle registration",
+   "Imported goods",
+   "Income of corporations"
+  ],
+  "e": "Section 152(d) allows fees on cockfighting, places of recreation with admission fees and billboards.",
+  "s": "LGC Sec. 152"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "Community tax proceeds collected through barangay treasurers are shared:",
+  "o": [
+   "50% city or municipality and 50% barangay",
+   "100% barangay",
+   "30% barangay and 70% city",
+   "10% barangay"
+  ],
+  "e": "Section 164: fifty percent to the general fund of the city or municipality and fifty percent to the barangay.",
+  "s": "LGC Sec. 164"
+ },
+ {
+  "src": "LGC",
+  "c": "Taxation",
+  "q": "Barangays may fine violators of tax ordinances not less than ₱100 and not more than:",
+  "o": [
+   "₱1,000",
+   "₱500",
+   "₱5,000",
+   "₱10,000"
+  ],
+  "e": "Barangays may prescribe fines of ₱100 to ₱1,000 for violation of tax ordinances.",
+  "s": "LGC Sec. 516"
+ },
+ {
+  "src": "LGC",
+  "c": "Shares",
+  "q": "LGUs have what share in national taxes under Section 284?",
+  "o": [
+   "Forty percent",
+   "Twenty percent",
+   "Sixty percent",
+   "Ten percent"
+  ],
+  "e": "Section 284: LGUs have a forty percent share, computed on all national taxes since FY 2022.",
+  "s": "LGC Sec. 284"
+ },
+ {
+  "src": "LGC",
+  "c": "Shares",
+  "q": "Under Section 285, barangays receive what share of the total LGU allotment?",
+  "o": [
+   "Twenty percent",
+   "Thirty-four percent",
+   "Twenty-three percent",
+   "Fifty percent"
+  ],
+  "e": "Provinces 23%, cities 23%, municipalities 34%, barangays 20%.",
+  "s": "LGC Sec. 285"
+ },
+ {
+  "src": "LGC",
+  "c": "Shares",
+  "q": "At least what share of the IRA or NTA is for development projects?",
+  "o": [
+   "Twenty percent",
+   "Ten percent",
+   "Five percent",
+   "Forty percent"
+  ],
+  "e": "Section 287: not less than twenty percent of the annual IRA for development projects.",
+  "s": "LGC Sec. 287"
+ },
+ {
+  "src": "LGC",
+  "c": "Shares",
+  "q": "LGUs are entitled to what share of gross national wealth collections?",
+  "o": [
+   "Forty percent",
+   "Twenty percent",
+   "Sixty percent",
+   "Five percent"
+  ],
+  "e": "Sections 289-290: forty percent of gross collection from utilization and development of national wealth.",
+  "s": "LGC Sec. 289-290"
+ },
+ {
+  "src": "LGC",
+  "c": "Shares",
+  "q": "The barangay's share of national wealth proceeds within a province is:",
+  "o": [
+   "Thirty-five percent",
+   "Twenty percent",
+   "Forty-five percent",
+   "Sixty-five percent"
+  ],
+  "e": "Section 292: province 20%, component city or municipality 45%, barangay 35%.",
+  "s": "LGC Sec. 292"
+ },
+ {
+  "src": "LGC",
+  "c": "Shares",
+  "q": "Proceeds from geothermal and other energy sources are applied how?",
+  "o": [
+   "Eighty percent to lower the cost of electricity",
+   "Fifty percent to roads",
+   "All to the barangay",
+   "Twenty percent to the SK"
+  ],
+  "e": "Section 294: 80% of proceeds lowers the cost of electricity in the LGU where the source is located.",
+  "s": "LGC Sec. 294"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "Section 305(a) states that no money shall be paid out of the local treasury except:",
+  "o": [
+   "In pursuance of an appropriations ordinance or law",
+   "By order of the mayor",
+   "With the PB's verbal approval",
+   "When funds are collected"
+  ],
+  "e": "Section 305(a): payments require an appropriations ordinance or law.",
+  "s": "LGC Sec. 305(a)"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "Local government funds shall be spent solely for:",
+  "o": [
+   "Public purposes",
+   "Religious purposes",
+   "Private purposes",
+   "Any purpose chosen by the PB"
+  ],
+  "e": "Section 305(b): local government funds and monies shall be spent solely for public purposes.",
+  "s": "LGC Sec. 305(b)"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "Trust funds in the local treasury may be paid out only:",
+  "o": [
+   "In fulfillment of the purpose for which the trust was created",
+   "For any urgent need",
+   "For salaries",
+   "For loans"
+  ],
+  "e": "Section 305(e): only for the purpose for which the trust was created or funds received.",
+  "s": "LGC Sec. 305(e)"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "Every officer who has custody of local funds shall be:",
+  "o": [
+   "Properly bonded",
+   "Elected",
+   "A lawyer",
+   "Over 50 years old"
+  ],
+  "e": "Section 305(f): every officer whose duties permit possession or custody of local funds shall be bonded.",
+  "s": "LGC Sec. 305(f)"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "Local budgets shall operationalize:",
+  "o": [
+   "Approved local development plans",
+   "Last year's budget",
+   "The mayor's agenda only",
+   "National budget circulars"
+  ],
+  "e": "Section 305(i): local budgets shall operationalize approved local development plans.",
+  "s": "LGC Sec. 305(i)"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "Fiscal responsibility under Section 305(l) is shared by:",
+  "o": [
+   "All those exercising authority over financial affairs",
+   "The treasurer alone",
+   "The accountant alone",
+   "The auditor alone"
+  ],
+  "e": "Section 305(l): fiscal responsibility is shared by all exercising authority over the financial affairs of the LGU.",
+  "s": "LGC Sec. 305(l)"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "Section 305(m) says the LGU shall endeavor to have a:",
+  "o": [
+   "Balanced budget each fiscal year",
+   "Surplus of 10%",
+   "Deficit budget",
+   "Zero cash balance"
+  ],
+  "e": "Section 305(m): endeavor to have a balanced budget in each fiscal year of operation.",
+  "s": "LGC Sec. 305(m)"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "An appropriation is an authorization made by:",
+  "o": [
+   "Ordinance directing payment of goods and services from local funds",
+   "Resolution of the BDC",
+   "The Treasurer's certificate",
+   "The Auditor"
+  ],
+  "e": "Section 306(b): an authorization by ordinance for payment from local funds under specified conditions or purposes.",
+  "s": "LGC Sec. 306(b)"
+ },
+ {
+  "src": "LGC",
+  "c": "Fiscal Principles",
+  "q": "Economic enterprises of the barangay are accounted for in:",
+  "o": [
+   "A special account in the General Fund",
+   "The SK Fund",
+   "A separate national fund",
+   "The BDRRMF"
+  ],
+  "e": "Section 313: the LGU maintains a special account in the General Fund for economic enterprises.",
+  "s": "LGC Sec. 313"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "The executive budget must be submitted to the sanggunian not later than:",
+  "o": [
+   "October 16",
+   "September 15",
+   "November 30",
+   "December 31"
+  ],
+  "e": "Section 318: the local chief executive submits the budget not later than the sixteenth of October.",
+  "s": "LGC Sec. 318"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "The sanggunian must enact the annual budget:",
+  "o": [
+   "On or before the end of the current fiscal year",
+   "Within 90 days of the next year",
+   "By March 31",
+   "By June 30"
+  ],
+  "e": "Section 319: enactment on or before the end of the current fiscal year.",
+  "s": "LGC Sec. 319"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "A supplemental budget takes effect:",
+  "o": [
+   "Upon approval or on the date fixed therein",
+   "At the start of next year",
+   "Ten days after posting",
+   "After 60 days"
+  ],
+  "e": "Section 320: the annual budget takes effect at the start of the calendar year; supplemental upon approval.",
+  "s": "LGC Sec. 320"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "After the executive budget is submitted, a supplemental budget may NOT be enacted EXCEPT when:",
+  "o": [
+   "Funds are available, new revenue sources exist, or in public calamity",
+   "The PB asks for it",
+   "The SK requests it",
+   "The year is ending"
+  ],
+  "e": "Section 321 limits supplemental budgets to those three circumstances.",
+  "s": "LGC Sec. 321"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "Unexpended appropriations revert to the general fund surplus at year-end, except:",
+  "o": [
+   "Appropriations for capital outlay",
+   "Personal services",
+   "MOOE",
+   "Financial expenses"
+  ],
+  "e": "Section 322: capital outlay appropriations continue until fully spent, reverted or the project is completed.",
+  "s": "LGC Sec. 322"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "If the sanggunian fails to enact the budget, the budget of the preceding year is deemed:",
+  "o": [
+   "Reenacted",
+   "Cancelled",
+   "Suspended",
+   "Doubled"
+  ],
+  "e": "Section 323: the ordinance of the preceding year is deemed reenacted, only for specified items.",
+  "s": "LGC Sec. 323"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "Appropriations for debt servicing shall not exceed what share of regular income?",
+  "o": [
+   "Twenty percent",
+   "Ten percent",
+   "Fifty percent",
+   "Five percent"
+  ],
+  "e": "Section 324(b): debt servicing may not exceed 20% of regular income.",
+  "s": "LGC Sec. 324(b)"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "Section 325(h) limits discretionary funds to what share of actual basic RPT receipts of the preceding year?",
+  "o": [
+   "Two percent",
+   "Five percent",
+   "Ten percent",
+   "Twenty percent"
+  ],
+  "e": "Discretionary funds may not exceed 2% of actual receipts from basic real property tax.",
+  "s": "LGC Sec. 325(h)"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "Under Section 329, the SK gets what share of the barangay general fund?",
+  "o": [
+   "Ten percent",
+   "Five percent",
+   "Twenty percent",
+   "One percent"
+  ],
+  "e": "Section 329 sets aside ten percent of the general funds for the SK.",
+  "s": "LGC Sec. 329"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "The barangay treasurer submits the statement of income and expenditures to the PB on or before:",
+  "o": [
+   "September 15",
+   "October 16",
+   "September 5",
+   "November 1"
+  ],
+  "e": "Section 330: on or before September 15, based on the certified statement of the city or municipal treasurer.",
+  "s": "LGC Sec. 330"
+ },
+ {
+  "src": "LGC",
+  "c": "Budget Process",
+  "q": "The responsibility for executing the barangay budget is vested primarily in:",
+  "o": [
+   "The Punong Barangay",
+   "The Barangay Treasurer",
+   "The SB",
+   "The COA"
+  ],
+  "e": "Section 332: execution of budgets and accountability are vested primarily in the punong barangay.",
+  "s": "LGC Sec. 332"
+ },
+ {
+  "src": "LGC",
+  "c": "Review",
+  "q": "The sanggunian reviewing a barangay budget has how many days to act?",
+  "o": [
+   "Sixty days from receipt",
+   "Ten days",
+   "Thirty days",
+   "One year"
+  ],
+  "e": "Section 333(a): if no action in 60 days, the ordinance continues in full force and effect.",
+  "s": "LGC Sec. 333"
+ },
+ {
+  "src": "LGC",
+  "c": "Execution",
+  "q": "Public money shall not be appropriated or applied for:",
+  "o": [
+   "Religious or private purposes",
+   "Social welfare",
+   "Disaster response",
+   "Health programs"
+  ],
+  "e": "Section 335 prohibits appropriation for religious or private purposes.",
+  "s": "LGC Sec. 335"
+ },
+ {
+  "src": "LGC",
+  "c": "Execution",
+  "q": "Funds are available exclusively for the specific purpose appropriated, except when:",
+  "o": [
+   "Savings augment an item in the same expense class by ordinance authority",
+   "The PB decides",
+   "The treasurer approves",
+   "The Auditor allows"
+  ],
+  "e": "Section 336 allows augmentation from savings within the same expense class.",
+  "s": "LGC Sec. 336"
+ },
+ {
+  "src": "LGC",
+  "c": "Execution",
+  "q": "Disbursements in any local fund may not exceed actual collections plus:",
+  "o": [
+   "Fifty percent of uncollected estimated revenue",
+   "Twenty percent",
+   "One hundred percent",
+   "Ten percent"
+  ],
+  "e": "Section 337 limits disbursements to collections plus 50% of uncollected estimated revenue.",
+  "s": "LGC Sec. 337"
+ },
+ {
+  "src": "LGC",
+  "c": "Execution",
+  "q": "No money shall be paid on account of any contract unless:",
+  "o": [
+   "Services have been rendered or goods delivered",
+   "The PB signs",
+   "The bid is posted",
+   "A bond is posted"
+  ],
+  "e": "Section 338: no payment under a contract where no services were rendered or goods delivered.",
+  "s": "LGC Sec. 338"
+ },
+ {
+  "src": "LGC",
+  "c": "Execution",
+  "q": "No cash advance may be granted to local officials except:",
+  "o": [
+   "As the COA may prescribe",
+   "By the mayor",
+   "As the SB decides",
+   "By the treasurer"
+  ],
+  "e": "Section 339: cash advances follow rules and regulations prescribed by the COA.",
+  "s": "LGC Sec. 339"
+ },
+ {
+  "src": "LGC",
+  "c": "Execution",
+  "q": "Entertainment or reception expenses are prohibited except for:",
+  "o": [
+   "Representation allowances authorized by law or visiting dignitaries",
+   "Any fiesta",
+   "Seminars",
+   "Staff parties"
+  ],
+  "e": "Section 343 prohibits entertainment and reception except as allowed by law.",
+  "s": "LGC Sec. 343"
+ },
+ {
+  "src": "LGC",
+  "c": "Legislation",
+  "q": "The Punong Barangay in the Sangguniang Barangay has what veto power?",
+  "o": [
+   "None",
+   "Item veto",
+   "Full veto",
+   "Veto on budgets only"
+  ],
+  "e": "Section 55(b): the PB, as presiding officer, has no veto power.",
+  "s": "LGC Sec. 55(b)"
+ },
+ {
+  "src": "LGC",
+  "c": "Legislation",
+  "q": "The presiding officer votes only:",
+  "o": [
+   "To break a tie",
+   "Always",
+   "Never",
+   "On the budget"
+  ],
+  "e": "Section 49(a): the presiding officer votes only to break a tie.",
+  "s": "LGC Sec. 49(a)"
+ },
+ {
+  "src": "LGC",
+  "c": "Legislation",
+  "q": "Ordinances enacted by the Sangguniang Barangay, upon approval by a majority of all members, are:",
+  "o": [
+   "Signed by the Punong Barangay",
+   "Signed by the Mayor",
+   "Signed by the Treasurer",
+   "Returned to the SP"
+  ],
+  "e": "Section 54(c): upon approval by the majority of all members, signed by the Punong Barangay.",
+  "s": "LGC Sec. 54(c)"
+ },
+ {
+  "src": "LGC",
+  "c": "Legislation",
+  "q": "The sanggunian may not hold how many sessions in a single day?",
+  "o": [
+   "Two",
+   "One",
+   "Three",
+   "Four"
+  ],
+  "e": "Section 52(c): no two sessions, regular or special, may be held in a single day.",
+  "s": "LGC Sec. 52(c)"
+ },
+ {
+  "src": "LGC",
+  "c": "Legislation",
+  "q": "The Secretary posts an ordinance not later than how many days after approval?",
+  "o": [
+   "Five days",
+   "One day",
+   "Thirty days",
+   "Sixty days"
+  ],
+  "e": "Section 59(b): posting within five days after approval.",
+  "s": "LGC Sec. 59(b)"
+ },
+ {
+  "src": "LGC",
+  "c": "Legislation",
+  "q": "As a general rule, an ordinance takes effect after how many days from posting?",
+  "o": [
+   "Ten days",
+   "Five days",
+   "Thirty days",
+   "Immediately"
+  ],
+  "e": "Section 59(a): ten days after a copy is posted, unless the ordinance states otherwise.",
+  "s": "LGC Sec. 59(a)"
+ },
+ {
+  "src": "LGC",
+  "c": "Local Development",
+  "q": "At least what share of the Barangay Development Council are non-government organization representatives?",
+  "o": [
+   "One-fourth",
+   "One-half",
+   "One-tenth",
+   "Two-thirds"
+  ],
+  "e": "Section 107(a): NGOs constitute not less than one-fourth of the fully organized council.",
+  "s": "LGC Sec. 107"
+ },
+ {
+  "src": "LGC",
+  "c": "Local Development",
+  "q": "The barangay development council is headed by:",
+  "o": [
+   "The Punong Barangay",
+   "The Treasurer",
+   "The SK Chairperson",
+   "The Secretary"
+  ],
+  "e": "Section 107(a): the BDC is headed by the punong barangay.",
+  "s": "LGC Sec. 107"
+ },
+ {
+  "src": "LGC",
+  "c": "Local Development",
+  "q": "A comprehensive multi-sectoral development plan is mandated by:",
+  "o": [
+   "Section 106",
+   "Section 305",
+   "Section 130",
+   "Section 339"
+  ],
+  "e": "Section 106 requires each LGU to have a comprehensive multi-sectoral development plan.",
+  "s": "LGC Sec. 106"
+ },
+ {
+  "src": "LGC",
+  "c": "Personnel",
+  "q": "Under Section 391(a)(10), no increase in sanggunian compensation or honoraria takes effect until:",
+  "o": [
+   "After the full term of all members approving it expires",
+   "Next month",
+   "After SB approval",
+   "After the Mayor signs"
+  ],
+  "e": "The increase does not take effect until the expiration of the full term of all approving members.",
+  "s": "LGC Sec. 391(a)(10)"
+ },
+ {
+  "src": "LGC",
+  "c": "Officers",
+  "q": "The Barangay Treasurer's bond is determined by the SB but not exceeding:",
+  "o": [
+   "₱10,000",
+   "₱1,000",
+   "₱100,000",
+   "₱1,000,000"
+  ],
+  "e": "Section 395(d): amount determined by the SB not exceeding ₱10,000, premiums paid by the barangay.",
+  "s": "LGC Sec. 395(d)"
+ },
+ {
+  "src": "LGC",
+  "c": "Officers",
+  "q": "The Punong Barangay prepares the annual executive budget in coordination with:",
+  "o": [
+   "The Barangay Development Council",
+   "The COA",
+   "The Mayor",
+   "The Governor"
+  ],
+  "e": "Section 389(b)(7): the PB, in coordination with the BDC, prepares annual executive and supplemental budgets.",
+  "s": "LGC Sec. 389(b)(7)"
+ },
+ {
+  "src": "LGC",
+  "c": "Accountability",
+  "q": "The local chief executive submits an annual report to the sanggunian on or before:",
+  "o": [
+   "March 31",
+   "January 15",
+   "June 30",
+   "December 31"
+  ],
+  "e": "Section 97: an annual report covering the preceding year is submitted on or before March 31.",
+  "s": "LGC Sec. 97"
+ },
+ {
+  "src": "LGC",
+  "c": "Accountability",
+  "q": "Enforcing an ordinance or resolution approving a plan after it is declared inoperative may result in:",
+  "o": [
+   "Suspension or dismissal of the official concerned",
+   "A fine of ₱100",
+   "Nothing",
+   "Reenactment"
+  ],
+  "e": "Section 58: attempted enforcement after being declared inoperative is ground for suspension or dismissal.",
+  "s": "LGC Sec. 58"
+ },
+ {
+  "src": "LGC",
+  "c": "Debt",
+  "q": "Local government units may contract loans to finance:",
+  "o": [
+   "Public facilities, infrastructure and capital investment projects",
+   "Honoraria",
+   "Fiestas",
+   "Daily office supplies"
+  ],
+  "e": "Section 297 allows loans to finance construction, infrastructure and capital investment projects.",
+  "s": "LGC Sec. 297"
+ },
+ {
+  "src": "LGC",
+  "c": "Basic Services",
+  "q": "Barangay basic services and facilities are enumerated in:",
+  "o": [
+   "Section 17",
+   "Section 130",
+   "Section 297",
+   "Section 343"
+  ],
+  "e": "Section 17 enumerates basic services and facilities, including the barangay's.",
+  "s": "LGC Sec. 17"
+ }
+]
