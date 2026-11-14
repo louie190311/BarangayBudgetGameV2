@@ -110,6 +110,7 @@ http.createServer(async (req, res) => {
     const b = req.method === 'POST' ? await body(req) : {};
     if ((b.pin || u.searchParams.get('pin')) !== PIN) return send(res, 403, { error: 'Wrong PIN.' });
     const act = p.slice(8);
+    if (act === 'check') return send(res, 200, { ok: 1 });
     if (act === 'csv') { res.writeHead(200, { 'Content-Type': 'text/csv; charset=utf-8', 'Content-Disposition': 'attachment; filename=budget-game-results.csv' }); return res.end('\ufeff' + csv()); }
     if (act === 'open') {
       const sel = (Array.isArray(b.sources) ? b.sources : []).filter(id => SRC[id]);
