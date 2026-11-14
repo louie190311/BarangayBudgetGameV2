@@ -46,7 +46,8 @@ function paint(){var h="",ph=S.phase;
  else{var t=S.all,pod="";if(t.length){pod='<div class="podium">';[[1,"🥈",90],[0,"🥇",120],[2,"🥉",70]].forEach(function(x){var p=t[x[0]];if(p)pod+='<div class="pod" style="height:'+x[2]+'px">'+x[1]+"<br>"+esc(p.name)+"<br><small>"+p.score+"</small></div>"});pod+="</div>"}
   h='<div class="card"><h2 class="center" style="margin-top:0">🏆 Final ranking</h2>'+pod+rows(t)+'<div class="row" style="justify-content:center"><a class="btn" href="/api/gm/csv?pin='+encodeURIComponent(pin)+'" style="text-decoration:none">Download CSV</a><button class="btn alt" id="reset">New game</button></div></div>'}
  root.innerHTML=h;var b;
- if(b=$("open"))b.onclick=function(){act("open",{nq:$("nq").value,dur:$("dur").value})};
+ if($("pool")){var cs=document.querySelectorAll(".srcsel");var upd=function(){var n=0;for(var i=0;i<cs.length;i++)if(cs[i].checked)n+=parseInt(cs[i].getAttribute("data-n"),10);$("pool").textContent=n+" questions available from the selected sources";$("nq").max=n;if(parseInt($("nq").value,10)>n)$("nq").value=n;$("open").disabled=!n};for(var i=0;i<cs.length;i++)cs[i].onchange=upd;upd()}
+ if(b=$("open"))b.onclick=function(){var s=[],c=document.querySelectorAll(".srcsel");for(var i=0;i<c.length;i++)if(c[i].checked)s.push(c[i].value);act("open",{sources:s,nq:$("nq").value,dur:$("dur").value})};
  if(b=$("start"))b.onclick=function(){if(!S.count&&!confirm("No one has registered yet. Start anyway?"))return;act("start")};
  if(b=$("reveal"))b.onclick=function(){act("reveal")};if(b=$("next"))b.onclick=function(){act("next")};
  if(b=$("reset"))b.onclick=function(){if(confirm("Reset the game and remove all participants?"))act("reset")};
