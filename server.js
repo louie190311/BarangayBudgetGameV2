@@ -3,7 +3,7 @@ const http = require('http'), fs = require('fs'), path = require('path');
 const Q = JSON.parse(fs.readFileSync(path.join(__dirname, 'questions.json'), 'utf8'));
 const SRC = { BBM: 'Barangay Budgeting Manual 2026', IRR: 'RA 12009 (IRR)', COA: 'COA Manual on Financial Management', LGC: 'Local Government Code 1991' };
 const PORT = process.env.PORT || 3000;
-const PIN = process.env.GM_PIN || String(1000 + Math.floor(Math.random() * 9000));
+const PIN = process.env.GM_PIN || '1991';
 
 function fresh() { return { phase: 'setup', regOpen: false, gid: String(Date.now()), order: [], perms: [], sources: [], idx: 0, dur: 20, qStart: 0, players: {}, timer: null }; }
 let G = fresh();
