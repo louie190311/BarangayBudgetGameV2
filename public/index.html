@@ -28,7 +28,7 @@ var root=document.getElementById("root"),S=null,at=0,vk="",id=localStorage.getIt
 if(!id){id=Math.random().toString(36).slice(2)+Date.now().toString(36);localStorage.setItem("bcg_id",id)}
 function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;")}
 function $(i){return document.getElementById(i)}
-function rows(l){var h="<table><tr><th>#</th><th>Name</th><th>Barangay</th><th>Position</th><th>Score</th></tr>";l.forEach(function(p){h+="<tr><td>"+p.rank+"</td><td>"+esc(p.name)+"</td><td>"+esc(p.barangay)+"</td><td>"+esc(p.position)+"</td><td>"+p.score+"</td></tr>"});return h+"</table>"}
+function rows(l){var h="<table><tr><th>#</th><th>Name</th><th>Barangay</th><th>Position</th><th>Score</th><th>Correct</th></tr>";l.forEach(function(p){h+="<tr><td>"+p.rank+"</td><td>"+esc(p.name)+"</td><td>"+esc(p.barangay)+"</td><td>"+esc(p.position)+"</td><td>"+p.score+"</td><td>"+p.right+"/"+S.total+"</td></tr>"});return h+"</table>"}
 function connect(){var es=new EventSource("/events?id="+id);es.onmessage=function(e){S=JSON.parse(e.data);at=Date.now();render()};es.onerror=function(){root.innerHTML='<div class="card center">Reconnecting…</div>';vk=""}}
 function render(){var m=S.me;var key=[S.phase,S.idx,S.regOpen,!!m,m&&m.answered].join("|");if(key!==vk){vk=key;paint()}else live()}
 function paint(){var h="",m=S.me;
